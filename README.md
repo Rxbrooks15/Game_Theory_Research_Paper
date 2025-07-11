@@ -1,4 +1,7 @@
 # Game_Theory_Research_Paper
+
+[FINAL_RESEARCH (1).pdf](https://github.com/user-attachments/files/21174379/FINAL_RESEARCH.1.pdf) (Click Me!)
+
 This study explores the factors that influence consumer choices on whether to invest in renewable
 energy sources versus fossil fuels, focusing on solar and wind energy. Motivated by the current climate
 crisis, highlighted by the IPCC’s projection of a critical global temperature rise by 2030, and the fluctuating
