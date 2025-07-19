@@ -1,6 +1,7 @@
 # Game_Theory_Research_Paper
 
 [FINAL_RESEARCH (1).pdf](https://github.com/user-attachments/files/21174379/FINAL_RESEARCH.1.pdf) (Click Me!)
+<img width="778" height="506" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/eeb01ff0-df12-4f25-9767-0c3ba7afaa1f" />
 
 This study explores the factors that influence consumer choices on whether to invest in renewable
 energy sources versus fossil fuels, focusing on solar and wind energy. Motivated by the current climate
@@ -53,3 +54,8 @@ these renewable resources like wind will have profound and far-reaching implicat
 energy market towards a more sustainable, secure, and prosperous future.
 
 <img width="736" height="409" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/6472a53d-7f5b-4f1b-ae0a-5c13d41a196a" />
+
+
+Supplimentary visualizations:
+<img width="989" height="629" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/bf13ce9a-353e-4b38-8e22-6622acf320f7" />
+
