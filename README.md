@@ -16,6 +16,8 @@ stable strategy (ESS) becomes wind energy at a 55% and 35% tax incentive, respec
 for those with a high level of environmental concern, the ESS is also wind energy but without any tax
 incentive. These findings imply that government interventions are necessary to encourage people that
 are not as environmentally conscious to adopt renewable energy sources and limit the climate crisis.
+<img width="840" height="810" alt="Screenshot (352)" src="https://github.com/user-attachments/assets/18420690-5585-4dcb-8383-d334874fd918" />
+
 
 While comprehending the evolving dynamics between fossil fuels and wind energy, there is a unique relationship
 in regard to tax incentives and external concern scenarios. Particularly when tax incentives shift
@@ -32,7 +34,10 @@ associated with wind energy have also trended downwards, due to incentives provi
 wind acting as an ESS is anticipated because it also aids in mitigating effects of climate change by generating
 clean energy and not releasing any carbon emissions [12]. This in turn potentially keeps us within the 1.5○C
 threshold till the year 2030 as it is essential that CO2 emissions are reduced by at least 43% before 2030,
-according to the IPCC [1, 2]. While wind energy reduces potential effects of climate change, to expand our
+according to the IPCC [1, 2].
+<img width="775" height="812" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/f650e850-01ad-4f12-86e9-3cfbdfe630fa" />
+
+While wind energy reduces potential effects of climate change, to expand our
 scope of analysis for future studies, we could include additional renewable energy sources such as hydroelectric,
 geothermal, and biomass to provide a more comprehensive view of the renewable energy market.
 Overall, our project highlights the critical importance of understanding consumer behavior and the role
@@ -46,3 +51,5 @@ intricacies of consumers’ energy allocation, however, we unveiled profound ins
 to refine their tax incentives, fostering a shift towards renewable energy adoption among citizens. In essence,
 these renewable resources like wind will have profound and far-reaching implications, driving the global
 energy market towards a more sustainable, secure, and prosperous future.
+
+<img width="736" height="409" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/6472a53d-7f5b-4f1b-ae0a-5c13d41a196a" />
