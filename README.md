@@ -56,6 +56,6 @@ energy market towards a more sustainable, secure, and prosperous future.
 <img width="736" height="409" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/6472a53d-7f5b-4f1b-ae0a-5c13d41a196a" />
 
 
-Supplimentary visualizations:
+**Supplimentary visualizations:**
 <img width="989" height="629" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/bf13ce9a-353e-4b38-8e22-6622acf320f7" />
 
